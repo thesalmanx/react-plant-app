@@ -1,5 +1,7 @@
 # 🌿 **Plant Shop** 🌱
 
+#### Project is Live at [https://plant.salmann.dev/](https://plant.salmann.dev/)
+
 Welcome to **Plant Shop**! 🛒🌱 This is your one-stop shop for all things plants. Whether you're a seasoned gardener or just starting your plant collection, we’ve got the perfect plant for you! 🪴🌼
 
 Built with **React**, **Redux**, and **React Router**, this app lets you browse plants, add them to your cart, and manage your shopping experience — all with a beautifully designed, responsive layout! 🚀
