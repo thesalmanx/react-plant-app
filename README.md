@@ -48,6 +48,7 @@ Before you begin, make sure you have **Node.js** and **npm** installed. If not, 
 
 Here’s a quick overview of how the project is organized:
 
+```plaintext
 /plant-shop
 ├── /public
 │   └── index.html               # HTML template
@@ -60,6 +61,7 @@ Here’s a quick overview of how the project is organized:
 ├── /tailwind.config.js          # Tailwind CSS config
 ├── package.json                 # Project dependencies and scripts
 └── README.md                    # This file 😉
+
 
 ## 🧪 **Running Tests**
 
