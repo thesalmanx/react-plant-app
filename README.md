@@ -34,16 +34,20 @@ Before you begin, make sure you have **Node.js** and **npm** installed. If not, 
 1. **Clone the repository**:
 
    ```
-      git clone https://github.com/your-username/plant-shop.git
-      cd plant-shop
+   git https://github.com/thesalmanx/react-plant-shop.git
+   cd plant-shop
    ```
 3. **Install dependencies**:
 
-   ```npm install```
+   ```
+   npm install
+   ```
 
-4. **Run the app locally**:
+5. **Run the app locally**:
 
-   ```npm start```
+   ```
+   npm start
+   ```
 
    Your app should now be running at [http://localhost:3000](http://localhost:3000)! 🎉
 
@@ -51,19 +55,19 @@ Before you begin, make sure you have **Node.js** and **npm** installed. If not, 
 
 Here’s a quick overview of how the project is organized:
 
-```plaintext
-/plant-shop
-├── /public
-│   └── index.html               # HTML template
-├── /src
-│   ├── /components              # React components (Header, ProductList, Cart)
-│   ├── /redux                   # Redux setup (actions, reducers)
-│   ├── /data                    # Sample data for plants (replace with an API later)
-│   ├── App.js                   # Main App file
-│   └── index.js                 # Entry point for React
-├── /tailwind.config.js          # Tailwind CSS config
-├── package.json                 # Project dependencies and scripts
-└── README.md                    # This file 😉
+```
+   /plant-shop
+   ├── /public
+   │   └── index.html               # HTML template
+   ├── /src
+   │   ├── /components              # React components (Header, ProductList, Cart)
+   │   ├── /redux                   # Redux setup (actions, reducers)
+   │   ├── /data                    # Sample data for plants (replace with an API later)
+   │   ├── App.js                   # Main App file
+   │   └── index.js                 # Entry point for React
+   ├── /tailwind.config.js          # Tailwind CSS config
+   ├── package.json                 # Project dependencies and scripts
+   └── README.md                    # This file 😉
 ```
 
 ## 🧪 **Running Tests**
