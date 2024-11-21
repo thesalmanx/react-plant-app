@@ -31,16 +31,17 @@ Before you begin, make sure you have **Node.js** and **npm** installed. If not, 
 
 1. **Clone the repository**:
 
-   \`git clone https://github.com/your-username/plant-shop.git\`
-   cd plant-shop
+   ```
+      git clone https://github.com/your-username/plant-shop.git
+      cd plant-shop
+   ```
+3. **Install dependencies**:
 
-2. **Install dependencies**:
+   ```npm install```
 
-   \`npm install\`
+4. **Run the app locally**:
 
-3. **Run the app locally**:
-
-   \`npm start\`
+   ```npm start```
 
    Your app should now be running at [http://localhost:3000](http://localhost:3000)! 🎉
 
