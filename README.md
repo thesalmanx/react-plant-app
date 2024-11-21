@@ -1,6 +1,6 @@
 # 🌿 **Plant Shop** 🌱
 
-#### Project is Live at [https://plant.salmann.dev/](https://plant.salmann.dev/)
+#### Project is Live at <a href="https://plant.salmann.dev/" target="_blank">https://plant.salmann.dev/</a>
 
 Welcome to **Plant Shop**! 🛒🌱 This is your one-stop shop for all things plants. Whether you're a seasoned gardener or just starting your plant collection, we’ve got the perfect plant for you! 🪴🌼
 
