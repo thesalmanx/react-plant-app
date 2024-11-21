@@ -61,7 +61,7 @@ Here’s a quick overview of how the project is organized:
 ├── /tailwind.config.js          # Tailwind CSS config
 ├── package.json                 # Project dependencies and scripts
 └── README.md                    # This file 😉
-
+```
 
 ## 🧪 **Running Tests**
 
